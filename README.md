@@ -28,8 +28,11 @@ https://github.com/QiuSimons/R2S-R4S-OpenWrt/actions
 
 ### 版本信息：
 LUCI版本：19.07（当日最新）
+
 R2S/R4S其他模块版本：SNAPSHOT（当日最新）
+
 R4S的支援由[1715173329](https://github.com/1715173329/)完成！
+
 X86其他模块版本：19.07（当日最新）
 
 ### 特性及功能：
